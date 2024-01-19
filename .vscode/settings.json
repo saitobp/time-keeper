@@ -1,0 +1,14 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "superjson",
+    "tanstack",
+    "trpc"
+  ],
+  "material-icon-theme.folders.associations": {
+    "_components": "components",
+    "trpc": "contract",
+  },
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "indent"
+}
